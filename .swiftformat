@@ -1,0 +1,8 @@
+--allman false
+--indent 4
+--trimwhitespace always
+--insertlines aroundmark
+--header strip
+--disable blankLinesAroundMark
+--linebreaks lf
+--exclude Package.swift
